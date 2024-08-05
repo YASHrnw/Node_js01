@@ -3,7 +3,7 @@
 const http = require('http');
 
 const dataControl = (req, resp) => {
-    resp.write("<h1>Hello, this is Mufij</h1>");
+    resp.write("<h1>yash</h1>");
     resp.end();
 }
 
